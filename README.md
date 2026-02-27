@@ -13,11 +13,11 @@ This repository showcases examples of how I approach quality, including test pla
 ## Table of Contents
 
 - [About This Repository](#about-this-repository)
+- [QA Best Practices](qa-best-practices.md)
 - [Sample Test Plan](sample-test-plan.md)
 - [Test Case Examples](test-cases.md)
 - [Bug Report Sample](bug-report-sample.md)
 - [Release Checklist](release-checklist.md)
-- [QA Best Practices](qa-best-practices.md)
 - [Risk Analysis](risk-analysis.md)
 - [Exploratory Testing Notes](exploratory-testing-notes.md)
 - [Test Strategy](test-strategy.md)
