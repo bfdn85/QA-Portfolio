@@ -10,12 +10,17 @@ Hello! I’m a QA Engineer with 7+ years of experience in manual and automation 
 
 This repository showcases examples of how I approach quality, including test planning, test case design, and defect documentation.
 
-## What you’ll find here
+## Table of Contents
 
-- Sample Test Plan
-- Test Case Examples
-- Bug Report Sample
-- QA Process Notes
+- [About This Repository](#about-this-repository)
+- [Sample Test Plan](sample-test-plan.md)
+- [Test Case Examples](test-cases.md)
+- [Bug Report Sample](bug-report-sample.md)
+- [Release Checklist](release-checklist.md)
+- [QA Best Practices](qa-best-practices.md)
+- [Risk Analysis](risk-analysis.md)
+- [Exploratory Testing Notes](exploratory-testing-notes.md)
+- [Test Strategy](test-strategy.md)
 
 ## My approach to QA
 
