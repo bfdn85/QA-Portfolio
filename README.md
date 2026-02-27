@@ -1,12 +1,14 @@
 # QA Portfolio
 
 ## About This Repository
+This repository contains sample QA artifacts that demonstrate my approach to software quality, including test planning, risk analysis, test strategy, backend validation, and defect reporting across the software development lifecycle.
 
-This repository contains sample QA artifacts that demonstrate my approach to software quality, including planning, test design, and defect reporting.
+## About Me
 
-All examples are fictional and sanitized, created to showcase testing strategy, documentation style, and risk-based thinking.
+I’m a Quality Assurance Engineer with 7+ years of experience working across SaaS, financial, and regulated environments. My focus is on delivering reliable user experiences through thoughtful test strategy, risk-based testing, and clear communication with cross-functional teams.
 
-Hello! I’m a QA Engineer with 7+ years of experience in manual and automation testing across SaaS and regulated environments.
+I enjoy collaborating closely with product and engineering to identify risks early, improve processes, and ensure quality is built into every stage of the development lifecycle.
+
 
 This repository showcases examples of how I approach quality, including test planning, test case design, and defect documentation.
 
