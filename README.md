@@ -21,6 +21,8 @@ This repository showcases examples of how I approach quality, including test pla
 - [Risk Analysis](risk-analysis.md)
 - [Exploratory Testing Notes](exploratory-testing-notes.md)
 - [Test Strategy](test-strategy.md)
+- [API Testing Checklist](api-testing-checklist.md)
+- [Database Validation Notes](database-validation.md)
 
 ## My approach to QA
 
