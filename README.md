@@ -25,7 +25,7 @@ This repository showcases examples of how I approach quality, including test pla
 - [Test Strategy](test-strategy.md)
 - [API Testing Checklist](api-testing-checklist.md)
 - [Database Validation Notes](database-validation.md)
--- [Automation Gates](automation-gates.md)
+   [Automation Gates](automation-gates.md)
 
 ## My approach to QA
 
